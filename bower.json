@@ -1,0 +1,25 @@
+{
+  "name": "angular-phonegap",
+  "main": "angular-phonegap.js",
+  "version": "1.0.0-alpha",
+  "description": "AngularJS module for use with PhoneGap",
+  "keywords": [
+    "angularjs",
+    "phonegap"
+  ],
+  "authors": [
+    "Colin Kahn"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular-mocks": "~1.2.21",
+    "angular": "~1.2.21"
+  }
+}
